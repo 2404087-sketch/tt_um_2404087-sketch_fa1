@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+TAKE INPUT AND PERFORM 1 BIT ADDITION
 
 ## How to test
 
-Explain how to use your project
+APPLY INPUT VIA SWITCH AND OBSERVE OUTPUT 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+NOT REQUIRED
